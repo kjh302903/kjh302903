@@ -26,3 +26,14 @@ I'm interested in Front-End.
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
 </div>
 
+## 🎓Education
+- 김해 제일고등학교(2015.03. ~ 2018.02(졸업))
+- 부산대학교 정보컴퓨터공학부(2018.03. ~ 2024.08.(졸업 예정))
+- 카카오 테크 캠퍼스 1기(2023.04. ~ 2023.11.(수료))
+
+## 📂Projects
+- [볼링 번개 모임 커뮤니티 [번개볼링]](https://github.com/Step3-kakao-tech-campus/Team3_FE) : 2023.09. ~ 2023.11.
+
+## 🏆Awards
+- 카카오 테크 캠퍼스 1기 신규 서비스 개발 프로젝트 - 대상(2023.11.17.)
+
